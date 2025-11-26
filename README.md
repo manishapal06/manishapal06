@@ -61,8 +61,17 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=manishapal06&show_icons=true&theme=radical" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishapal06&layout=compact&theme=radical" />
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=manishapal06&show_icons=true&theme=radical&hide_border=true" 
+       alt="Manisha's GitHub Stats"
+       height="180" />
+</p>
 
-</div>
+<p align="center">
+  <img
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishapal06&layout=compact&theme=radical&hide_border=true"
+       alt="Top Languages"
+       height="180" />
+</p>
+
