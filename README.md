@@ -63,15 +63,16 @@
 
 <p align="center">
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=manishapal06&show_icons=true&theme=radical&hide_border=true" 
-       alt="Manisha's GitHub Stats"
-       height="180" />
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=manishapal06&show_icons=true&theme=radical&hide_border=true"
+       height="180"
+  />
 </p>
 
 <p align="center">
-  <img
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishapal06&layout=compact&theme=radical&hide_border=true"
-       alt="Top Languages"
-       height="180" />
+  <img 
+       src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=manishapal06&layout=compact&theme=radical&hide_border=true"
+       height="180"
+  />
 </p>
+
 
